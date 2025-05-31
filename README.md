@@ -106,7 +106,7 @@
 
  <!-- About Me -->
 <p align='left'>
-- 🔭 <b>Computer Science Grad</b> from<b>NIT Nagpur</b><br>
+- 🔭 <b>Computer Science Grad</b>   from <b> NIT Nagpur </b><br>
 - 🌱 I’m currently exploring and learning in depth backend 😁<br>
 - ✨ Also focusing on problem-solving and System Design<br>
 - ⚡ Interests : Machine Learning and Artificial Intelligence! 😏<br>

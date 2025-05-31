@@ -86,7 +86,6 @@
 
  <!-- Banners 2nd Phase -->
 <p align='center'>
-<img src="
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
 </p>
  <!-- Banners 2nd Phase -->

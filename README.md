@@ -73,14 +73,9 @@
 
  <!--Google Foobar -->
 
-<div align="center">
-<a herf = "https://holopin.io/@sumonta056">
-<img src="https://github.com/Sumonta056/sumonta056/assets/61287791/9680d192-ec4f-46db-bd13-7f03a57005e3" width="70%" >
-</a>
-</div>
+
 
  <!--Google Foobar -->
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <!-- Achievement Corner -->
  
 

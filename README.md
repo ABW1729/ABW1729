@@ -194,18 +194,7 @@
 
 <!-- Activity Graph -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Contribution Stack -->                                                   
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Blog Section -->
-
-
-<!-- Footer -->
-
-<!-- Projects and Repository -->
-
-<div align='center'>
 
 <!-- <h4 align="center"> 🏆 Best Projects </h4>
 
@@ -216,6 +205,4 @@
 
 
 
-</div>
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

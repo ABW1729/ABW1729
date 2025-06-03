@@ -1,7 +1,7 @@
  <!-- Banner & Links -->
 
  
-<img align='center' src= "images/header.png">
+<img align='center' src= "header.jpeg">
 
 <div align="center">
 <a href = "https://drive.google.com/file/d/13AD4dgLOeZhCU_JvYb1i404Dhc111ozW/view?usp=drivesdk" ><img src="https://img.shields.io/badge/My%20CV-%40Aniket-blue" width="200" height="35"></a>

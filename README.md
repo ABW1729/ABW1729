@@ -16,7 +16,7 @@
 <p align="center" width="150px">
   Incoming <b>Associate Software Engineer</b> at
   <a herf="https://www.linkedin.com/company/maq-software/"><b>MAQ Software</b></a>. <br />
-  Besides, I have completed my graduation in <b>Computer Science and Engineering</b> from <b>National Institute of Technology, Nagpur </b>. <br />
+  I have completed my graduation in <b>Computer Science and Engineering</b> from <b>National Institute of Technology, Nagpur </b>. <br />
 </p>
 
  <!-- Heading and BIO -->
